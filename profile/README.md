@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Cabot-bot"><img src="https://cabot-bot.xyz/src/assets/redise%C3%B1o8.png" height="200" alt="Cabot"></a>
+  <a href="https://github.com/Cabot-bot"><img src="https://cabot-bot.xyz/assets/cabot.6d9e57de.svg" height="200" alt="Cabot"></a>
   <br>
   Cabot
   <br>
