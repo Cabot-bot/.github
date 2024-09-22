@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Cabot-bot"><img src="https://cabot-bot.xyz/assets/cabot.6d9e57de.svg" height="200" alt="Cabot"></a>
+  <a href="https://github.com/Cabot-bot"><img src="https://cabot-bot.xyz/cabot.png" height="200" alt="Cabot"></a>
   <br>
   Cabot
   <br>
@@ -34,8 +34,7 @@
 - [Git](https://git-scm.com/downloads)
 - [MongoDB](https://www.mongodb.com)
 - [Discord.js](https://discord.js.org)
-- [HTML](https://html.com/)
-- And more + With love ❤️
+- And more + With love & Magic ❤️
 
 
 <br>
