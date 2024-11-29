@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Cabot-bot"><img src="https://cabot-bot.xyz/cabot.png" height="200" alt="Cabot"></a>
+  <a href="https://github.com/Cabot-bot"><img src="https://media.discordapp.net/attachments/884545008869453834/1311866907527352320/rediseno8.png?ex=674a6ac4&is=67491944&hm=7780a181129ee8c7fce0d0a303c7f97e78300a69acee3f950bb05ec4e98fad65&=&format=webp&quality=lossless&width=596&height=596" height="200" alt="Cabot"></a>
   <br>
   Cabot
   <br>
 </h1>
 
-<p align="center">An open-source occult informational platform with a large database used for divination, the occult, spiritualism and More...</p>
+<p align="center">An open-source occult informational platform with a large database used for divination, the occult, spiritualism, and More...</p>
 
 <br>
 
