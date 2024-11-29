@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<p align="center">An open-source occult informational platform with a large database used for divination, the occult, spiritualism, and More...</p>
+<p align="center">Your digital guide to the occult; Large databases and tools for divination, occult, spiritualism, Religion, and More...</p>
 
 <br>
 
@@ -42,13 +42,12 @@
 
 ## ⚒️ Features
 
-- Discord bot that focuses on divination and occult information bringing tools and reasources to Discord (not affiliated with Discord)
+- Discord bot that focuses on divination and occult information bringing tools and resources to Discord (not affiliated)
 - Website that holds all the information about Cabot you need! Plus mobile and web assessable tools!
-- API that holds the data of Cabot, allowing developers and more with easier access to Cabots data (privately available / coming soon)
-- Blog made to offer easier assessable occult information/resources with a shop that offers tools, herbs, crystals, and much more! (coming soon)
+- Open-source translated data
 
 
 <h1 align="center">🤝Contributing🤝</h1>
 
-- Feel free to Fork any repository, create a feature branch and submit a pull request (make sure to check if there is a contributions guide and licensing before)
-- You can keep track of all the planned features [here](https://github.com/Cabot-bot/projects) or make a request for one at our [Discord](https://discord.gg/Gjjq7MmssX)
+- Feel free to Fork any repository, create a feature branch, and submit a pull request (make sure to check if there is a contributions guide and licensing before)
+- You can keep track of all the planned features [here](https://github.com/Cabot-bot/projects) or request one at our [Discord](https://discord.gg/Gjjq7MmssX)
