@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Cabot-bot"><img src="https://media.discordapp.net/attachments/884545008869453834/1311866907527352320/rediseno8.png?ex=674a6ac4&is=67491944&hm=7780a181129ee8c7fce0d0a303c7f97e78300a69acee3f950bb05ec4e98fad65&=&format=webp&quality=lossless&width=596&height=596" height="200" alt="Cabot"></a>
+  <a href="https://github.com/Cabot-bot"><img src="https://media.discordapp.net/attachments/886724168933048351/1321325341100343317/rediseno8.png?ex=676cd39e&is=676b821e&hm=e66dad1118e10c756619443bc373b0719f6a8bcd889a4c1080aec0c20de03ac6&=&format=webp&quality=lossless&width=596&height=596" height="200" alt="Cabot"></a>
   <br>
   Cabot
   <br>
