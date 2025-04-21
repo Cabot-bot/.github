@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/Cabot-bot">
-    <img src="https://media.discordapp.net/attachments/886724168933048351/1321325341100343317/rediseno8.png?ex=676cd39e&is=676b821e&hm=e66dad1118e10c756619443bc373b0719f6a8bcd889a4c1080aec0c20de03ac6&=&format=webp&quality=lossless&width=596&height=596" height="200" alt="Cabot">
+    <img src="https://openoccult.com/cabot.svg" height="200" alt="Cabot">
   </a>
   <br>
   Cabot
@@ -10,6 +10,8 @@
 
 <p align="center"><b>Your digital guide to the occult.</b></p>
 <p align="center">Explore tools for divination, occult studies, spiritualism, and more, all in one place.</p>
+<p align="center"><i>Cabot. An <a href="https://openoccult.com/">Open Occult </a>platform.</i></p>
+
 
 <p align="center">
   <a href="#-resource-links">🔗 Resource Links</a>
@@ -60,3 +62,5 @@ We welcome contributions from everyone! 🚀
 
 ## 🎉 Show Your Support!
 If you enjoy Cabot, consider giving us a ⭐ on GitHub or joining our community for updates!
+
+[Open Occult Website](https://openoccult.com/) | [Open Occult Github](https://github.com/openoccult)
